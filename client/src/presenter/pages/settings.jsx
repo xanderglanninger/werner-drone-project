@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Cookies from "js-cookie";
 import { useNavigate } from "react-router-dom";
-import Header from "../layout/Header";
+import Header from "../layout/header";
 import NavMenu from "../layout/navMenu";
 import StatsNavMenu from "../layout/statsNavMenu";
 
