@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import Header from "../layout/Header.jsx";
+import Header from "../layout/Header";
 import StatsNavMenu from "../layout/statsNavMenu";
 import StatsBlock from "../features/stats/general/statsBlock";
 import LiveData from "../features/stats/liveData/liveData";
