@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import Header from "../layout/Header";
+import Header from "../layout/header";
 import LoadingScreen from "../features/core/loadingScreen.jsx";
 import MainContent from "../features/core/infoBlock.jsx";
 
