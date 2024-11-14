@@ -22,7 +22,7 @@ const Stats = () => {
         </div>
       </section>
     </div>
-  );x
+  );
 };
 
 export default Stats;
