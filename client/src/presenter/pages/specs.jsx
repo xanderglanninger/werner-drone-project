@@ -5,7 +5,7 @@ import { Canvas, events, useFrame } from "@react-three/fiber";
 import { useLoader, useThree } from "@react-three/fiber";
 import { GridHelper, Color, Raycaster, Vector2, AmbientLight, DirectionalLight, PointLight, SpotLight, AnimationMixer } from "three";
 import { OrbitControls } from "@react-three/drei"
-import Header from "../layout/Header";
+import Header from "../layout/header";
 import LoadingScreen from "../features/core/loadingScreen";
 import StatsNavMenu from "../layout/statsNavMenu";
 
